@@ -13,6 +13,7 @@ interrupted state exactly.
 
 ## Files
 
+- purewaterstart.py is the runfile for two-phase flow simulations with the capillary pressure function. You can enable or disable this function in this file's params.
 - `spe11_data/`: SPE11A geometry and mesh.
 - `spe11a_capillary_simulation.py`: active-capillary SPE11A pilot.
 - `two_layer_capillary_simulation.py`: two-layer capillary-pressure studies.
