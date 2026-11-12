@@ -1,0 +1,3 @@
+-r requirements-plotting.txt
+porepy @ git+https://github.com/pmgbergen/porepy.git@f743bcb0b3112c8c171baa11f40f179a1f8883ac
+pypardiso==0.4.7
